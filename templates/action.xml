@@ -1,0 +1,6 @@
+<Response>
+	<Gather action='/gatherspeech' input='speech'>
+  		
+  	</Gather>
+</Response>
+
